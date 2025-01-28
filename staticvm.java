@@ -1,5 +1,5 @@
-//this program is static variable and method caled
-//  each object craete count value store in class (instance of class)
+//this program is static variable and method called
+//  each object created, count value store in class (instance of class)
 
 
  class count {
