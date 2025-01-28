@@ -13,5 +13,5 @@ public class ExplicitConstructor {
         person p =new person();
         System.out.println(p.name);
         System.out.println(p.age);
-    }8y
+    }
 }
